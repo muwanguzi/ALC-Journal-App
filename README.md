@@ -10,7 +10,11 @@ Android Build Tools v25.0.0.
 
 
 ## Getting Started
-Read more about Firebase Auth
+Read more about Firebase Auth 
+
+**Goto* - [Firebase setup](https://firebase.google.com/docs/android/setup)
+goto link:-
+
 Add Firebase to your Android Project.
 
     Go to the Firebase Console and navigate to your project:
