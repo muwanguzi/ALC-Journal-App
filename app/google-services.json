@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "137276091192",
+    "firebase_url": "https://journal-app-6da08.firebaseio.com",
+    "project_id": "journal-app-6da08",
+    "storage_bucket": "journal-app-6da08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137276091192:android:a035430817227fbe",
+        "android_client_info": {
+          "package_name": "muwanguzi.journalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137276091192-ih9s7q1hberqbfju857pg59i6gb0lcc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHFJP6H3Rv2L5klQmnvLgyf_oEm7Jgbfs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
