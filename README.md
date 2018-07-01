@@ -40,30 +40,30 @@ The Journal-App README contains details about the organization of the source cod
 <tr>
 
 <td>
-<img src="https://github.com/muwanguzi/ALC-Journal-App/raw/master/snapshots/1.PNG?raw=true" alt="Alt text" width="250px height="500"  title="Optional Title">
+<img src="https://github.com/muwanguzi/ALC-Journal-App/raw/master/snapshots/1.PNG?raw=true" alt="Alt text" width="200px height="400"  title="Optional Title">
 </td>
 <td>
-<img src="https://github.com/muwanguzi/ALC-Journal-App/raw/master/snapshots/2.PNG?raw=true" alt="Alt text" width="250px height="500"  title="Optional Title"></td>
+<img src="https://github.com/muwanguzi/ALC-Journal-App/raw/master/snapshots/2.PNG?raw=true" alt="Alt text" width="200px height="400"  title="Optional Title"></td>
 <td>
-<img src="https://github.com/muwanguzi/ALC-Journal-App/raw/master/snapshots/3.PNG?raw=true" alt="Alt text" height="250px"  title="Optional Title" ></td>
+<img src="https://github.com/muwanguzi/ALC-Journal-App/raw/master/snapshots/3.PNG?raw=true" alt="Alt text" width="200px height="400"  title="Optional Title" ></td>
 <td>
-<img src="https://github.com/muwanguzi/ALC-Journal-App/raw/master/snapshots/4.PNG?raw=true" alt="Alt text" height="250px"  title="Optional Title" ></td>
+<img src="https://github.com/muwanguzi/ALC-Journal-App/raw/master/snapshots/4.PNG?raw=true" alt="Alt text" width="200px height="400"  title="Optional Title" ></td>
 
 </tr>
 
 <tr>
 <td>
-<img src="https://github.com/muwanguzi/ALC-Journal-App/raw/master/snapshots/9.PNG?raw=true" alt="Alt text" height="250px"  title="Optional Title" ></td>
+<img src="https://github.com/muwanguzi/ALC-Journal-App/raw/master/snapshots/9.PNG?raw=true" alt="Alt text" width="200px height="400"  title="Optional Title" ></td>
 <td>
-<img src="https://github.com/muwanguzi/ALC-Journal-App/raw/master/snapshots/6.PNG?raw=true" alt="Alt text" height="250px"  title="Optional Title" ></td>
+<img src="https://github.com/muwanguzi/ALC-Journal-App/raw/master/snapshots/6.PNG?raw=true" alt="Alt text" width="200px height="400"  title="Optional Title" ></td>
 <td>
-<img src="https://github.com/muwanguzi/ALC-Journal-App/raw/master/snapshots/7.PNG?raw=true" alt="Alt text" height="250px"  title="Optional Title" ></td>
+<img src="https://github.com/muwanguzi/ALC-Journal-App/raw/master/snapshots/7.PNG?raw=true" alt="Alt text" width="200px height="400"  title="Optional Title" ></td>
 
 </tr>
 
 <tr>
 <td colspan = "4">
-<img src="https://github.com/muwanguzi/ALC-Journal-App/raw/master/snapshots/8.PNG?raw=true" alt="Alt text" height="250px"  title="Optional Title" >
+<img src="https://github.com/muwanguzi/ALC-Journal-App/raw/master/snapshots/8.PNG?raw=true" alt="Alt text" width="200px height="400"  title="Optional Title" >
 </td>
 
 </tr>
