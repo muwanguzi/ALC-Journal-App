@@ -61,13 +61,16 @@ The Journal-App README contains details about the organization of the source cod
 
 </tr>
 
-<tr>
-<td colspan = "4">
-<img src="https://github.com/muwanguzi/ALC-Journal-App/raw/master/snapshots/8.PNG?raw=true" alt="Alt text" width="200px height="400"  title="Optional Title" >
+
+ 
+ </table>
+ <table>
+ <tr>
+<td >
+<img src="https://github.com/muwanguzi/ALC-Journal-App/raw/master/snapshots/8.PNG?raw=true" alt="Alt text" height="200"  title="Optional Title" >
 </td>
 
 </tr>
- 
  </table>
  
 ## Download APK
