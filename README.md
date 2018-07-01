@@ -78,7 +78,7 @@ The Journal-App README contains details about the organization of the source cod
        
 
 
-## Authors
+## Author
 
 * **Muwanguzi Francis** - *Journal App* - [Aurthur](https://github.com/muwanguzi)
 
