@@ -60,7 +60,7 @@ The Journal-App README contains details about the organization of the source cod
 
 <tr>
 <td clospan = "4">
-<img src="https://github.com/muwanguzi/ALC-Journal-App/raw/master/snapshots/8.PNG?raw=true" alt="Alt text" height="200px"  title="Optional Title" >
+<img src="https://github.com/muwanguzi/ALC-Journal-App/raw/master/snapshots/8.PNG?raw=true" alt="Alt text" height="250px"  title="Optional Title" >
 </td>
 
 </tr>
