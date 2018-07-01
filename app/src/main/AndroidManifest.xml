@@ -41,12 +41,12 @@
             android:label="@string/app_name" />
         <activity
             android:name=".SignupActivity"
-            android:label="@string/title_activity_signup"
-            android:theme="@style/AppTheme.NoActionBar" />
+            android:label="Register"
+             />
         <activity
             android:name=".ResetPasswordActivity"
-            android:label="@string/title_activity_reset_password"
-            android:theme="@style/AppTheme.NoActionBar" />
+            android:label="Rest Password"
+             />
     </application>
 
 </manifest>
