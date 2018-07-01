@@ -12,8 +12,7 @@ Android Build Tools v25.0.0.
 ## Getting Started
 Read more about Firebase Auth 
 
-**Goto* - [Firebase setup](https://firebase.google.com/docs/android/setup)
-goto link:-
+*Goto* - [Firebase setup](https://firebase.google.com/docs/android/setup)
 
 Add Firebase to your Android Project.
 
@@ -71,7 +70,7 @@ The Journal-App README contains details about the organization of the source cod
  
  </table>
  
-## APK
+## Download APK
  **Journal App* - [apk](https://github.com/muwanguzi/ALC-Journal-App/tree/master/apk/)
        
 
