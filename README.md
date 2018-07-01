@@ -67,6 +67,8 @@ The Journal-App README contains details about the organization of the source cod
  
  </table>
  
+##APK
+ **Journal App* - [apk](https://github.com/muwanguzi/ALC-Journal-App/tree/master/apk/app-debug.apk)
        
 
 
