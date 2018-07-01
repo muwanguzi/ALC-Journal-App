@@ -34,7 +34,7 @@ The Journal-App README contains details about the organization of the source cod
 ## Screen Shots
 
 
-<img src="https://github.com/muwanguzi/ALC-Journal-App/raw/master/snapshots/1.PNG?raw=true" alt="Alt text" title="Optional Title" style="width: 250px;height: 500px;">
+<img src="https://github.com/muwanguzi/ALC-Journal-App/raw/master/snapshots/1.PNG?raw=true" alt="Alt text" height="100px" title="Optional Title" style="width: 250px;height: 500px;">
 <img src="https://github.com/muwanguzi/ALC-Journal-App/raw/master/snapshots/2.PNG?raw=true" alt="Alt text" title="Optional Title" style="width: 250px;height: 500px;">
 <img src="https://github.com/muwanguzi/ALC-Journal-App/raw/master/snapshots/3.PNG?raw=true" alt="Alt text" title="Optional Title" style="width: 250px;height: 500px;">
 <img src="https://github.com/muwanguzi/ALC-Journal-App/raw/master/snapshots/4.PNG?raw=true" alt="Alt text" title="Optional Title" style="width: 250px;height: 500px;">
