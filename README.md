@@ -71,7 +71,7 @@ The Journal-App README contains details about the organization of the source cod
  </table>
  
 ## Download APK
- **Journal App* - [apk](https://github.com/muwanguzi/ALC-Journal-App/raw/master/apk.zip)
+ **Journal App* - [apk](/muwanguzi/ALC-Journal-App/raw/master/apk.zip)
        
 
 
